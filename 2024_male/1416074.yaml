@@ -1,0 +1,5126 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2024-02-09'
+  gender: male
+  match_type: ODI
+  match_type_number: 4725
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 42
+  overs: 50
+  player_of_match:
+  - P Nissanka
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - WIA Fernando
+    - BKG Mendis
+    - S Samarawickrama
+    - KIC Asalanka
+    - J Liyanage
+    - PWH de Silva
+    - M Theekshana
+    - PM Liyanagamage
+    - PVD Chameera
+    - D Madushanka
+    Afghanistan:
+    - Rahmanullah Gurbaz
+    - Ibrahim Zadran
+    - Rahmat Shah
+    - Hashmatullah Shahidi
+    - Azmatullah Omarzai
+    - Gulbadin Naib
+    - Mohammad Nabi
+    - Ikram Alikhil
+    - Noor Ahmad
+    - Fazalhaq Farooqi
+    - Fareed Ahmad
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      Azmatullah Omarzai: 8f6dd463
+      BC Broad: d6a7dd38
+      BKG Mendis: 5d1e7582
+      D Madushanka: de7d833e
+      Fareed Ahmad: 67b7bad4
+      Fazalhaq Farooqi: e9c7f0d0
+      Gulbadin Naib: 9f77963a
+      Hashmatullah Shahidi: c2a46cb4
+      Ibrahim Zadran: d4550956
+      Ikram Alikhil: f67c958d
+      J Liyanage: 84212ffb
+      KIC Asalanka: 732c038e
+      M Theekshana: f24c6701
+      MA Gough: 76752ac8
+      Mohammad Nabi: 62af8546
+      Noor Ahmad: efc04be7
+      P Nissanka: 8ee36b18
+      PM Liyanagamage: 3ee0050f
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      RMPJ Rambukwella: 13fa6ffc
+      RR Wimalasiri: 4950c8db
+      Rahmanullah Gurbaz: 0bacade8
+      Rahmat Shah: f9c29fcd
+      S Samarawickrama: 9ab2914d
+      WIA Fernando: 9550470d
+  teams:
+  - Sri Lanka
+  - Afghanistan
+  toss:
+    winner: Afghanistan
+    decision: field
+  umpires:
+  - AG Wharf
+  - RR Wimalasiri
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 0.5:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.7:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.1:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.7:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.8:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.1:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.3:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WIA Fernando
+    - 3.4:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 3.6:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 4.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 4.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.1:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.2:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.3:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 5.4:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 5.5:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 6.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 6.4:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 7.1:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 7.2:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Nissanka
+    - 7.3:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 7.4:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 7.5:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 7.6:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 7.7:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 8.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 8.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: WIA Fernando
+    - 8.3:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 8.4:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 8.5:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 8.6:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 8.7:
+        non_striker: WIA Fernando
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 9.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 9.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 9.3:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 9.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 9.5:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 9.6:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 10.1:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.2:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 10.3:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 10.4:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 10.5:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.6:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 11.1:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.2:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 11.3:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.4:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.5:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 11.6:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 12.1:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.2:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 12.3:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.4:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 12.5:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 12.6:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.1:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.2:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 13.3:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 13.4:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 13.5:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 13.6:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 14.1:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 14.2:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 14.3:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.4:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 14.5:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.6:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.1:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.2:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 15.3:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.4:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.5:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 15.6:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 16.1:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 16.2:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 16.3:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 16.4:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.5:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 16.6:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 17.1:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 17.2:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 17.3:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 17.4:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 17.5:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 17.6:
+        non_striker: WIA Fernando
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 18.1:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 18.2:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 18.3:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 18.4:
+        non_striker: WIA Fernando
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 18.5:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 18.6:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 19.1:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 19.2:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 19.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 19.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 19.5:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 19.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 20.1:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 20.2:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 20.3:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 20.4:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 20.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 20.6:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 21.1:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 21.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 21.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 21.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 21.5:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 21.6:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 22.1:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 22.2:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 22.3:
+        non_striker: WIA Fernando
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 22.4:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 22.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 22.6:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 22.7:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 23.1:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 23.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 23.3:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 23.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 23.5:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 23.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 23.7:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 24.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 24.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 24.3:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 24.4:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 24.5:
+        non_striker: WIA Fernando
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 24.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 25.1:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 25.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 25.3:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 25.4:
+        non_striker: WIA Fernando
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 25.5:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 25.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 26.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 26.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - Ibrahim Zadran
+          kind: caught
+    - 26.3:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.5:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 27.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 27.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 27.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 27.5:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 27.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 28.1:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 28.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 28.3:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 28.4:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 28.5:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 28.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 29.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 29.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 29.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 29.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 29.5:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 30.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 30.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 30.3:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 30.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 30.5:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 30.6:
+        non_striker: BKG Mendis
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 31.1:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 31.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 31.3:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 31.4:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 31.5:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 31.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 32.1:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 32.2:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 32.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 32.4:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 32.5:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 32.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 33.1:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 33.2:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 33.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 33.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 33.5:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.6:
+        non_striker: BKG Mendis
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 34.1:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 34.2:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 34.3:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 34.4:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 34.5:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 34.6:
+        non_striker: BKG Mendis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 35.1:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.2:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Gulbadin Naib
+          kind: caught
+    - 35.3:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 35.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 35.5:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 35.6:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 36.1:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 36.2:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Samarawickrama
+    - 36.3:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 36.4:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 36.5:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 36.6:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 36.7:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 37.1:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 37.2:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 37.3:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 37.4:
+        non_striker: P Nissanka
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 37.5:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 37.6:
+        non_striker: S Samarawickrama
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 38.1:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 38.2:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 38.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 38.4:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 38.5:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 38.6:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 39.1:
+        non_striker: S Samarawickrama
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 39.2:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 39.3:
+        non_striker: S Samarawickrama
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 39.4:
+        non_striker: S Samarawickrama
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 39.5:
+        non_striker: S Samarawickrama
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 39.6:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 40.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 40.2:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 40.3:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 40.4:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 40.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 40.6:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 41.1:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 41.2:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 41.3:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 41.4:
+        non_striker: S Samarawickrama
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 41.5:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Samarawickrama
+    - 41.6:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 42.1:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 42.2:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 42.3:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 42.4:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 42.5:
+        non_striker: S Samarawickrama
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 42.6:
+        non_striker: P Nissanka
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 43.1:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 43.2:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 43.3:
+        non_striker: S Samarawickrama
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 43.4:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Samarawickrama
+    - 43.5:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 43.6:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 43.7:
+        non_striker: P Nissanka
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 44.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 44.2:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 44.3:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 44.4:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 44.5:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 44.6:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 45.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Samarawickrama
+    - 45.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 45.3:
+        non_striker: S Samarawickrama
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 45.4:
+        non_striker: S Samarawickrama
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 45.5:
+        non_striker: S Samarawickrama
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 45.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 45.7:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 45.8:
+        non_striker: S Samarawickrama
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 46.1:
+        non_striker: P Nissanka
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 46.2:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 46.3:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 46.4:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 46.5:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 46.6:
+        non_striker: S Samarawickrama
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 47.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - Azmatullah Omarzai
+          kind: caught
+    - 47.2:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 47.3:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 47.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KIC Asalanka
+    - 47.5:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 47.6:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 47.7:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 48.1:
+        non_striker: KIC Asalanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 48.2:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 48.3:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 48.4:
+        non_striker: P Nissanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 48.5:
+        non_striker: KIC Asalanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 48.6:
+        non_striker: KIC Asalanka
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 49.1:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 49.2:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 49.3:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Nissanka
+    - 49.4:
+        non_striker: P Nissanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KIC Asalanka
+    - 49.5:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 49.6:
+        non_striker: KIC Asalanka
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+- 2nd innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 1.1:
+        non_striker: Ibrahim Zadran
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: bowled
+    - 1.2:
+        non_striker: Ibrahim Zadran
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 1.3:
+        non_striker: Ibrahim Zadran
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 1.4:
+        non_striker: Ibrahim Zadran
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 1.5:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 1.6:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 2.1:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.2:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.3:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 2.4:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.5:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.6:
+        non_striker: Ibrahim Zadran
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 3.1:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+        wicket:
+          player_out: Ibrahim Zadran
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 3.2:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 3.3:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 3.4:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 3.5:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 3.6:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 4.1:
+        non_striker: Rahmat Shah
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 4.2:
+        non_striker: Rahmat Shah
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 4.3:
+        non_striker: Rahmat Shah
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 4.4:
+        non_striker: Rahmat Shah
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 4.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 4.6:
+        non_striker: Rahmat Shah
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 4.7:
+        non_striker: Hashmatullah Shahidi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.1:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 5.2:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+        wicket:
+          player_out: Hashmatullah Shahidi
+          kind: bowled
+    - 5.3:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 5.4:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 5.5:
+        non_striker: Rahmat Shah
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Azmatullah Omarzai
+    - 5.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 6.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+        wicket:
+          player_out: Rahmat Shah
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 6.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 6.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 6.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 6.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 7.1:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 7.2:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 7.3:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 7.4:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 7.5:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 7.6:
+        non_striker: Gulbadin Naib
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 8.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 8.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 8.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 8.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 8.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 8.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 9.1:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Azmatullah Omarzai
+    - 9.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 9.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 9.4:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 9.5:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 9.6:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 10.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 10.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 10.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 11.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 11.5:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 11.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 12.1:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.2:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 12.3:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.4:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.5:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 12.6:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.1:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 13.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 13.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 13.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.1:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 14.2:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.3:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 14.4:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 14.5:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.6:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 15.1:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.2:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.4:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.5:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 15.6:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 16.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 16.2:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 16.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 16.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 16.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 16.6:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 17.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 18.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.6:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 19.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 19.4:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 19.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 20.1:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 20.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 20.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 20.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 20.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 20.6:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 21.1:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 21.2:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 21.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 21.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 21.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 21.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 22.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 22.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 22.3:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 22.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 22.5:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 22.6:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 23.1:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 23.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 23.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 23.4:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 23.5:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 23.6:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 24.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 24.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 24.3:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 24.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 24.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 24.6:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 25.1:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 25.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 25.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 25.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 25.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 25.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 26.1:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 26.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 26.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 26.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 26.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 26.6:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 27.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 27.2:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 27.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 27.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 27.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 27.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 28.1:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 28.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 28.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 28.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 28.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 28.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 28.7:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 29.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 29.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 29.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 29.4:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Azmatullah Omarzai
+    - 29.5:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 29.6:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 29.7:
+        non_striker: Mohammad Nabi
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 30.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 30.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 30.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 30.4:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 30.5:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 30.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 31.1:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 31.2:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 31.3:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 31.4:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azmatullah Omarzai
+    - 31.5:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 31.6:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 31.7:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 32.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 32.2:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 32.3:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 32.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 32.5:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 32.6:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 33.1:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 33.2:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 33.3:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 33.4:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 33.5:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 33.6:
+        non_striker: Mohammad Nabi
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 34.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 34.2:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 34.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 34.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 34.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 34.6:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 35.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 35.2:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 35.3:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 35.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 35.5:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 35.6:
+        non_striker: Mohammad Nabi
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 36.1:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 36.2:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 36.3:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 36.4:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 36.5:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 36.6:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 37.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 37.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 37.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 37.4:
+        non_striker: Mohammad Nabi
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: KIC Asalanka
+            out: PVD Chameera
+            reason: injury
+            role: bowler
+        batsman: Azmatullah Omarzai
+    - 37.5:
+        non_striker: Mohammad Nabi
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 37.6:
+        non_striker: Azmatullah Omarzai
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 38.1:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Azmatullah Omarzai
+    - 38.2:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 38.3:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 38.4:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 38.5:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 38.6:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 39.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 39.2:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 39.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 39.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 39.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 39.6:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 40.1:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 40.2:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 40.3:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 40.4:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 40.5:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 40.6:
+        non_striker: Azmatullah Omarzai
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 40.7:
+        non_striker: Mohammad Nabi
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 41.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 41.2:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 41.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 41.4:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 41.5:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 41.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 42.1:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 42.2:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 42.3:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 42.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 42.5:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 42.6:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 43.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 43.2:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 43.3:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 43.4:
+        non_striker: Mohammad Nabi
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 43.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 43.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 44.1:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 44.2:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 44.3:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 44.4:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 44.5:
+        non_striker: Mohammad Nabi
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 44.6:
+        non_striker: Azmatullah Omarzai
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 45.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 45.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nabi
+    - 45.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: caught and bowled
+    - 45.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 45.5:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 45.6:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 45.7:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 46.1:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 46.2:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 46.3:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 46.4:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 46.5:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 46.6:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 47.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikram Alikhil
+    - 47.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 47.3:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 47.4:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 47.5:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 47.6:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 48.1:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azmatullah Omarzai
+    - 48.2:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 48.3:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 48.4:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 48.5:
+        non_striker: Ikram Alikhil
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 48.6:
+        non_striker: Azmatullah Omarzai
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 49.1:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Ikram Alikhil
+    - 49.2:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikram Alikhil
+    - 49.3:
+        non_striker: Azmatullah Omarzai
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikram Alikhil
+    - 49.4:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 49.5:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 49.6:
+        non_striker: Ikram Alikhil
+        bowler: PM Liyanagamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai

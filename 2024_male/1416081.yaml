@@ -1,0 +1,5065 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sharjah
+  dates:
+  - '2024-03-07'
+  gender: male
+  match_type: ODI
+  match_type_number: 4741
+  outcome:
+    winner: Afghanistan
+    by:
+      runs: 35
+  overs: 50
+  player_of_match:
+  - Rahmanullah Gurbaz
+  players:
+    Afghanistan:
+    - Rahmanullah Gurbaz
+    - Ibrahim Zadran
+    - Azmatullah Omarzai
+    - Mohammad Nabi
+    - Rahmat Shah
+    - Hashmatullah Shahidi
+    - Gulbadin Naib
+    - Ikram Alikhil
+    - Noor Ahmad
+    - Fazalhaq Farooqi
+    - AM Ghazanfar
+    Ireland:
+    - A Balbirnie
+    - PR Stirling
+    - C Campher
+    - HT Tector
+    - L Tucker
+    - GH Dockrell
+    - MR Adair
+    - AR McBrine
+    - GI Hume
+    - TF van Woerkom
+    - CA Young
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AM Ghazanfar: 9ca68676
+      AR McBrine: e957b38f
+      Ahmed Shah Durrani: af23265a
+      Ahmed Shah Pakteen: '43602937'
+      Azmatullah Omarzai: 8f6dd463
+      C Campher: 478a63e7
+      CA Young: bd0a4a7d
+      DC Boon: e79a1fe3
+      Fazalhaq Farooqi: e9c7f0d0
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      Gulbadin Naib: 9f77963a
+      HT Tector: 59ea70a4
+      Hashmatullah Shahidi: c2a46cb4
+      Ibrahim Zadran: d4550956
+      Ikram Alikhil: f67c958d
+      Izatullah Safi: '0429e73e'
+      L Tucker: 3979b5e0
+      MR Adair: fc55ec67
+      Mohammad Nabi: 62af8546
+      Nangeyalia Kharote: 75b8e198
+      Noor Ahmad: efc04be7
+      PR Reiffel: c9354f29
+      PR Stirling: cf494ffe
+      Rahmanullah Gurbaz: 0bacade8
+      Rahmat Shah: f9c29fcd
+      TF van Woerkom: 70f2f922
+  teams:
+  - Afghanistan
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Ahmed Shah Durrani
+  - PR Reiffel
+  venue: Sharjah Cricket Stadium
+innings:
+- 1st innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ibrahim Zadran
+    - 0.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Zadran
+    - 0.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 0.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 1.1:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.2:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.3:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.4:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 2.1:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 2.6:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 3.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 3.4:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.5:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.6:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 4.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 5.1:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.2:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.3:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 5.6:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 6.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 6.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Zadran
+    - 6.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 6.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ibrahim Zadran
+    - 6.6:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 7.2:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.4:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.5:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.6:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 8.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 8.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 8.4:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.6:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 9.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 9.3:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 9.4:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 9.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 10.1:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 10.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 10.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 10.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 10.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 10.6:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 11.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 11.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 11.4:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.5:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 11.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ibrahim Zadran
+    - 11.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 12.1:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 12.2:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 12.3:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 12.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 12.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 12.6:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 13.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 13.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 14.1:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 14.2:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 14.3:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 14.4:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 14.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 14.6:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 15.1:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 15.2:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 15.3:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 15.4:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 15.5:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 15.6:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 16.1:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 16.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 16.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 16.4:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 16.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 16.6:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 17.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 17.2:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 17.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 17.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 17.5:
+        non_striker: Ibrahim Zadran
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 17.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 18.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 18.2:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 18.3:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 18.4:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 18.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 18.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 19.1:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 19.2:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 19.3:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 19.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 19.5:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 19.6:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 20.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 20.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 20.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 20.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 20.5:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 20.6:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.1:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.2:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 21.4:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 21.5:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 21.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 22.1:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 22.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 22.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 22.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 22.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 22.6:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 23.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 23.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 23.3:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 23.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ibrahim Zadran
+    - 23.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 23.6:
+        non_striker: Ibrahim Zadran
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 24.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 24.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 24.3:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 24.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 24.5:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 24.6:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 25.1:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 25.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ibrahim Zadran
+    - 25.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 25.4:
+        non_striker: Ibrahim Zadran
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 25.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ibrahim Zadran
+    - 25.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 26.1:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 26.2:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 26.3:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 26.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 26.5:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 26.6:
+        non_striker: Ibrahim Zadran
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 27.1:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 27.2:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 27.3:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 27.4:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 27.5:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 27.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 28.1:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 28.2:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 28.3:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 28.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ibrahim Zadran
+    - 28.5:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 28.6:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 29.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 29.2:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 29.3:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 29.4:
+        non_striker: Ibrahim Zadran
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 29.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 29.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 30.1:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 30.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Zadran
+    - 30.3:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 30.4:
+        non_striker: Ibrahim Zadran
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 30.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+    - 30.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Zadran
+        wicket:
+          player_out: Ibrahim Zadran
+          kind: bowled
+    - 31.1:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 31.2:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 31.3:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 31.4:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 31.5:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 31.6:
+        non_striker: Azmatullah Omarzai
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 32.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 32.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 32.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 32.4:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 32.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 32.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 33.1:
+        non_striker: Azmatullah Omarzai
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 33.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 33.3:
+        non_striker: Azmatullah Omarzai
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 33.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 33.5:
+        non_striker: Azmatullah Omarzai
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 33.6:
+        non_striker: Azmatullah Omarzai
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.1:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 34.3:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 34.4:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 34.5:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 35.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 35.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azmatullah Omarzai
+    - 35.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 35.4:
+        non_striker: Azmatullah Omarzai
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 35.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azmatullah Omarzai
+    - 35.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azmatullah Omarzai
+    - 35.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 36.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 36.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 36.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+    - 36.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 36.5:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 36.6:
+        non_striker: Azmatullah Omarzai
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 37.1:
+        non_striker: Azmatullah Omarzai
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 37.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azmatullah Omarzai
+    - 37.3:
+        non_striker: Azmatullah Omarzai
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 37.4:
+        non_striker: Azmatullah Omarzai
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 37.5:
+        non_striker: Azmatullah Omarzai
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 37.6:
+        non_striker: Azmatullah Omarzai
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 38.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azmatullah Omarzai
+        wicket:
+          player_out: Azmatullah Omarzai
+          fielders:
+          - C Campher
+          kind: caught
+    - 38.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 38.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 38.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 38.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 38.6:
+        non_striker: Mohammad Nabi
+        bowler: TF van Woerkom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          kind: bowled
+    - 39.1:
+        non_striker: Rahmat Shah
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 39.2:
+        non_striker: Rahmat Shah
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 39.3:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 39.4:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 39.5:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 39.6:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 40.1:
+        non_striker: Rahmat Shah
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 40.2:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+        wicket:
+          player_out: Rahmat Shah
+          fielders:
+          - MR Adair
+          kind: caught
+    - 40.3:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 40.4:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 40.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 40.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 41.1:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 41.2:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 41.3:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 41.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 41.5:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 41.6:
+        non_striker: Mohammad Nabi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 42.1:
+        non_striker: Mohammad Nabi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 42.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 42.3:
+        non_striker: Mohammad Nabi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 42.4:
+        non_striker: Mohammad Nabi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 42.5:
+        non_striker: Mohammad Nabi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 42.6:
+        non_striker: Mohammad Nabi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.1:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mohammad Nabi
+    - 43.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 43.4:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 43.5:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 44.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 44.2:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 44.3:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 44.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 44.5:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 44.6:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 45.1:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 45.2:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 45.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 45.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 45.5:
+        non_striker: Mohammad Nabi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 45.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 46.1:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 46.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 46.3:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 46.4:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 46.5:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 46.6:
+        non_striker: Mohammad Nabi
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 47.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 47.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 47.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 47.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 47.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nabi
+    - 47.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 48.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: caught and bowled
+    - 48.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 48.3:
+        non_striker: Gulbadin Naib
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 48.4:
+        non_striker: Gulbadin Naib
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 48.5:
+        non_striker: Gulbadin Naib
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 48.6:
+        non_striker: Gulbadin Naib
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hashmatullah Shahidi
+    - 49.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 49.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 49.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gulbadin Naib
+    - 49.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 49.5:
+        non_striker: Gulbadin Naib
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 49.6:
+        non_striker: Gulbadin Naib
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Hashmatullah Shahidi
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 1.1:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.3:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.4:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.3:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - Ikram Alikhil
+          kind: caught
+    - 3.5:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.1:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: A Balbirnie
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 4.3:
+        non_striker: A Balbirnie
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 4.4:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.5:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.6:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.2:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 6.1:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: bowled
+    - 6.2:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 6.3:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 6.4:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.5:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.6:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.7:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 7.1:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.2:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.3:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.4:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 7.5:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.6:
+        non_striker: C Campher
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.1:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 8.2:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.3:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.4:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.5:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 8.6:
+        non_striker: C Campher
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.2:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.3:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.4:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 9.5:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.6:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 10.1:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          kind: bowled
+    - 10.2:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.3:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.4:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 10.5:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.6:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 11.1:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 11.3:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.4:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 11.5:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 11.6:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.1:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.2:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 12.3:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 12.4:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 12.5:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 12.6:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 13.1:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.2:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.3:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 13.4:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.5:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.6:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 14.1:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 14.2:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 14.3:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 14.4:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.5:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 14.6:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.7:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.1:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 15.2:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 15.3:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 15.4:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.5:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.6:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 16.1:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.2:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 16.3:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 16.4:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.5:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 16.6:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 17.1:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 17.2:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 17.3:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 17.4:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 17.5:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 17.6:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 18.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 18.2:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 18.3:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 18.4:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 18.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 18.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 19.1:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 19.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 19.3:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 19.4:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 19.5:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 19.6:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 20.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 20.2:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 20.3:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 20.4:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 20.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 20.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 20.7:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 21.1:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 21.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 21.3:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 21.4:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.5:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 21.6:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 22.1:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 22.2:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.3:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.4:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.5:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.6:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 23.1:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: L Tucker
+    - 23.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 23.3:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 23.4:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 23.5:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 23.6:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 24.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 24.2:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 24.3:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 24.4:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 24.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 24.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 25.1:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 25.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 25.3:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 25.4:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 25.5:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 25.6:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 26.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 26.2:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 26.3:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 26.4:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 26.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 26.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 27.1:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 27.2:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 27.3:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 27.4:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 27.5:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 27.6:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 28.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 28.2:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 28.3:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 28.4:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 28.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 28.6:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 29.1:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 29.2:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 29.3:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 29.4:
+        non_striker: L Tucker
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 29.5:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 29.6:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 30.1:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 30.2:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 30.3:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 30.4:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 30.5:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 30.6:
+        non_striker: L Tucker
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 31.1:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 31.2:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 31.3:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 31.4:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 31.5:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 31.6:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 32.1:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 32.2:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 32.3:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 32.4:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 32.5:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 32.6:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 33.1:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tucker
+    - 33.2:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 33.3:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 33.4:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 33.5:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 33.6:
+        non_striker: L Tucker
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 33.7:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 34.1:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 34.2:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 34.3:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 34.4:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 34.5:
+        non_striker: HT Tector
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 34.6:
+        non_striker: L Tucker
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 35.1:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 35.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 35.3:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 35.4:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 35.5:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 35.6:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 36.1:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 36.2:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 36.3:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 36.4:
+        non_striker: L Tucker
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 36.5:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 36.6:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 37.1:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 37.2:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 37.3:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 37.4:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 37.5:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 37.6:
+        non_striker: L Tucker
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 38.1:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.2:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 38.3:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.4:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 38.5:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 38.6:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Ikram Alikhil
+          kind: caught
+    - 39.1:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 39.2:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 39.3:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 39.4:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 39.5:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 39.6:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 40.1:
+        non_striker: GH Dockrell
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 40.2:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 40.3:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 40.4:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 40.5:
+        non_striker: GH Dockrell
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 40.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 41.1:
+        non_striker: HT Tector
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 41.2:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 41.3:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 41.4:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 41.5:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 41.6:
+        non_striker: GH Dockrell
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 42.1:
+        non_striker: GH Dockrell
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 42.2:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 42.3:
+        non_striker: GH Dockrell
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 42.4:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - Nangeyalia Kharote (sub)
+          kind: caught
+    - 42.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Adair
+    - 42.6:
+        non_striker: MR Adair
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 43.1:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 43.2:
+        non_striker: MR Adair
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 43.3:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 43.4:
+        non_striker: MR Adair
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 43.5:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MR Adair
+    - 43.6:
+        non_striker: MR Adair
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 43.7:
+        non_striker: MR Adair
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 44.1:
+        non_striker: MR Adair
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 44.2:
+        non_striker: MR Adair
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 44.3:
+        non_striker: MR Adair
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 44.4:
+        non_striker: MR Adair
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 44.5:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 44.6:
+        non_striker: HT Tector
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 45.1:
+        non_striker: MR Adair
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 45.2:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 45.3:
+        non_striker: MR Adair
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 45.4:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 45.5:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 45.6:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          kind: bowled
+    - 46.1:
+        non_striker: AR McBrine
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 46.2:
+        non_striker: AR McBrine
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 46.3:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 46.4:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - Gulbadin Naib
+          kind: caught
+    - 46.5:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 46.6:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 46.7:
+        non_striker: GI Hume
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 47.1:
+        non_striker: GI Hume
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 47.2:
+        non_striker: GI Hume
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 47.3:
+        non_striker: GI Hume
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 47.4:
+        non_striker: GI Hume
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 47.5:
+        non_striker: HT Tector
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 47.6:
+        non_striker: GI Hume
+        bowler: Fazalhaq Farooqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 48.1:
+        non_striker: GI Hume
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 48.2:
+        non_striker: GI Hume
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 48.3:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 48.4:
+        non_striker: GI Hume
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 48.5:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+    - 48.6:
+        non_striker: HT Tector
+        bowler: Azmatullah Omarzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GI Hume
+    - 49.1:
+        non_striker: GI Hume
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 49.2:
+        non_striker: HT Tector
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 49.3:
+        non_striker: GI Hume
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Mohammad Nabi
+          kind: caught
+    - 49.4:
+        non_striker: GI Hume
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF van Woerkom
+    - 49.5:
+        non_striker: GI Hume
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TF van Woerkom
+    - 49.6:
+        non_striker: TF van Woerkom
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
